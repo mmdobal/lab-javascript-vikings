@@ -18,5 +18,14 @@
         "no-use-before-define": "off",
         "no-shadow": "off",
         "block-scoped-var": "off"
-    }
+    },
+    
+        "parserOptions": {
+            "ecmaVersion": 2017
+        },
+    
+        "env": {
+            "es6": true
+        }
+    
 }
